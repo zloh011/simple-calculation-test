@@ -2,14 +2,14 @@
 
 A simple calculation testing program to integrate with CircleCI for CI/CD
 
-## Jest
+## [Jest](https://jestjs.io/)
 
 ```
-[Jest](https://jestjs.io/) is a delightful JavaScript Testing Framework with a focus on simplicity.
+Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 ```
 
-## CircleCI
+## [CircleCI](https://circleci.com/)
 
 ```
-[CircleCI](https://circleci.com/) enables engineering teams with automation. CircleCI automates software builds, tests, and deployments.
+CircleCI enables engineering teams with automation. CircleCI automates software builds, tests, and deployments.
 ```
