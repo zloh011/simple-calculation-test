@@ -1,4 +1,4 @@
-# simple-calculation-test
+# simple-calculation-test [![CircleCI](https://circleci.com/gh/lzguangzl/simple-calculation-test.svg?style=svg)](https://circleci.com/gh/lzguangzl/simple-calculation-test)
 
 A simple calculation testing program to integrate with CircleCI for CI/CD
 
